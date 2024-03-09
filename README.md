@@ -1,6 +1,6 @@
 ## Hi there, I'm Sergey👋!
 
-+ I’m currently learning Java, Spring, Java-web
+I’m currently learning Java, Spring, Java-web
 
 ### Applied:
 + Java Core, Java Collections Framework

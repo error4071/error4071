@@ -2,7 +2,7 @@
 
 + I’m currently learning Java, Spring, Java-web
 
-💻### Applied:
+### Applied:
 Java Core, Java Collections Framework
 Javalin Framework
 Test Automation by JUnit5
@@ -11,7 +11,7 @@ Work with Git, GitHub, building projects with Gradle
 Bash
 CI/CD (GitHub Action)
 
-🧰 ### Fundamental:
+### Fundamental:
 OOP and SOLID principles
 Test-Driven Development (TDD)
 Refactoring

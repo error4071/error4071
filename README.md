@@ -1,4 +1,4 @@
-## Hi there, I'm Sergey👋!
+## Hi there, I'm Sergey👋! Welcome to my GitHub Profile!
 
 I’m currently learning Java, Spring, Java-web
 

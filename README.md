@@ -17,7 +17,10 @@
 + Refactoring
 + Work with data bases, SQL
 
-
+### Contacts
++ LinkedIn: link
++ e-mail: sergey_ysoy87@mail.ru
++ Telegram: @error4071
 
 
 How to contact me: Just send me an email to: sergey_tsoy87@mail.ru

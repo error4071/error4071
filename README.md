@@ -18,6 +18,8 @@
 + Work with data bases, SQL
 
 
-+ How to contact me: Just send me an email to: sergey_tsoy87@mail.ru
+
+
+How to contact me: Just send me an email to: sergey_tsoy87@mail.ru
 
   

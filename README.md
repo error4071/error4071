@@ -19,5 +19,5 @@ I’m currently learning Java, Spring, Java-web
 
 ### Contacts
 + LinkedIn: link
-+ e-mail: sergey_ysoy87@mail.ru
++ e-mail: sergey_tsoy87@mail.ru
 + Telegram: @error4071
